@@ -1,79 +1,97 @@
-<h1 data-importer="text" align="center">W-welcome B-b-baka 😖</h1>
+<!-- Regurdo/Regurdo  ->  README.md -->
 
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTAzemVubWR0YjN6M2E3c3JwZTJrc25ndHR4OXQ5OXpzYW1iN2NsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JrY7yFe52MVLiLjcce/giphy.gif"  />
+<div align="center">
+  <img src="https://placehold.co/1000x300/ffffff/111111?text=Regurdo&font=playfair-display" alt="Regurdo banner" width="100%" />
+  <br/><br/>
+  <img src="https://img.shields.io/github/followers/Regurdo?label=FOLLOWERS&style=for-the-badge&labelColor=ffffff&color=111111&logo=github&logoColor=111111" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Regurdo&label=PROFILE%20VIEWS&style=for-the-badge&labelColor=ffffff&color=111111" alt="Profile views" />
 </div>
 
-###
+<br/>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+<h2 align="center">Know About Me</h2>
+<hr/>
+
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://placehold.co/260x260/ffffff/111111?text=Photo" alt="About" width="220" />
+    </td>
+    <td width="70%">
+      <h3>Hey there, I'm Regurdo</h3>
+      <p>
+        I'm a [your major / role] fueled by [your favorite drink] and a quiet obsession with clean, minimal design.
+        By day, I [what you do daily]. By night, I write code that I will definitely refactor tomorrow.
+        When I'm not coding, you'll usually find me [your hobby 1] or [your hobby 2].
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">Top Projects</h2>
+<hr/>
+
+<table>
+  <tr>
+    <td width="70%">
+      <h3>Built to avoid manual labor</h3>
+      <p>
+        <a href="https://github.com/Regurdo/project-one"><img src="https://img.shields.io/badge/PROJECT--ONE-ffffff?style=flat-square&logo=github&logoColor=111111&labelColor=ffffff&color=111111" alt="project-one" /></a>
+        &nbsp;Short description of what this project does and why it exists.
+      </p>
+      <p>
+        <a href="https://github.com/Regurdo/project-two"><img src="https://img.shields.io/badge/PROJECT--TWO-ffffff?style=flat-square&logo=github&logoColor=111111&labelColor=ffffff&color=111111" alt="project-two" /></a>
+        &nbsp;Another project, explained in one honest sentence.
+      </p>
+      <p>
+        <a href="https://github.com/Regurdo/project-three"><img src="https://img.shields.io/badge/PROJECT--THREE-ffffff?style=flat-square&logo=github&logoColor=111111&labelColor=ffffff&color=111111" alt="project-three" /></a>
+        &nbsp;A third one, because two felt lonely.
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://placehold.co/260x260/ffffff/111111?text=Logo" alt="Projects" width="200" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">Tech Stack</h2>
+<hr/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=111111&labelColor=ffffff&color=111111" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=111111&labelColor=ffffff&color=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=111111&labelColor=ffffff&color=111111" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-ffffff?style=flat-square&logo=linux&logoColor=111111&labelColor=ffffff&color=111111" alt="Linux" />
 </div>
 
-###
+<br/>
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Regurdo.Regurdo&"  />
+<h2 align="center">Connect</h2>
+<hr/>
+
+<div align="center">
+  <a href="https://github.com/Regurdo"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=111111&labelColor=ffffff&color=111111" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=111111&labelColor=ffffff&color=111111" alt="LinkedIn" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/GMAIL-ffffff?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=ffffff&color=111111" alt="Gmail" /></a>
+  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=readme&logoColor=111111&labelColor=ffffff&color=111111" alt="Resume" /></a>
 </div>
 
-###
+<br/>
 
-<img data-importer="image" align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTAzemVubWR0YjN6M2E3c3JwZTJrc25ndHR4OXQ5OXpzYW1iN2NsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hWH81BUAQZBmmQotPT/giphy.gif"  />
+> Code is never finished. It only becomes slightly less terrible over time.
 
-###
+> Every commit I make is a small apology to my future self.
+> Someday I'll return to this codebase, look at what I've written, and wonder who let me near a keyboard.
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<br/>
 
-###
+<h2 align="center">Contribution</h2>
+<hr/>
 
-<br clear="both">
-
-<p data-importer="text" align="left">#Ordinary Human<br>- Future software enginer<br>- Currently learning Cyber Securty<br>- I love anime</p>
-
-###
-
-<h3 data-importer="text" align="left">Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Regurdo&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&area_color=e5e5e5&hide_border=true&title_color=111111" alt="Regurdo's Contribution Graph" width="100%" />
 </div>
-
-###
-
-<h3 data-importer="text" align="left">Git Contribution :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Regurdo/Regurdo/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Regurdo/Regurdo/snake-output/snake.svg" alt="Snake animation" />
-
-###
