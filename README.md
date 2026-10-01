@@ -1,7 +1,7 @@
 <!-- Regurdo/Regurdo  ->  README.md -->
 
 <div align="center">
-  <img src="https://placehold.co/1600x500/ffffff/111111?text=Regurdo&font=playfair-display" alt="Regurdo banner" width="100%" />
+  <img src="banner.png" alt="Regurdo banner" width="100%" />
   <br/><br/>
   <img src="https://img.shields.io/github/followers/Regurdo?label=FOLLOWERS&style=for-the-badge&labelColor=ffffff&color=111111&logo=github&logoColor=111111" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=Regurdo&label=PROFILE%20VIEWS&style=for-the-badge&labelColor=ffffff&color=111111" alt="Profile views" />
